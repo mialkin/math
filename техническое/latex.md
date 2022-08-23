@@ -29,5 +29,5 @@ LaTeX широко используется в научных кругах дл�
 
 ## Дополнительно
 
--   [↑ What does the \var prefix stand for in \varphi and \varepsilon etc?](https://tex.stackexchange.com/questions/304534/what-does-the-var-prefix-stand-for-in-varphi-and-varepsilon-etc)
--   [↑ \varepsilon vs. \epsilon](https://tex.stackexchange.com/questions/98013/varepsilon-vs-epsilon/98018#98018)
+- [↑ What does the \var prefix stand for in \varphi and \varepsilon etc?](https://tex.stackexchange.com/questions/304534/what-does-the-var-prefix-stand-for-in-varphi-and-varepsilon-etc)
+- [↑ \varepsilon vs. \epsilon](https://tex.stackexchange.com/questions/98013/varepsilon-vs-epsilon/98018#98018)
