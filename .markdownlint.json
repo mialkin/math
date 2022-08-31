@@ -8,5 +8,8 @@
       "img",
       "b"
     ]
+  },
+  "no-duplicate-heading": {
+    "siblings_only": true
   }
 }
