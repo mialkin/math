@@ -6,7 +6,9 @@
       "tr",
       "td",
       "img",
-      "b"
+      "b",
+      "hr",
+      "sup"
     ]
   },
   "no-duplicate-heading": {
