@@ -29,17 +29,32 @@ LaTeX широко используется в научных кругах дл�
 
 ## Греческий алфавит
 
-| Символ                 | По-русски | LaTeX                  | По-английски            |
-| ---------------------- | --------- | ---------------------- | ----------------------- |
-| $\alpha$, $\Alpha$     | альфа     | `\alpha`, `\Alpha`     | alpha `/ˈælfə/`         |
-| $\theta$, $\Theta$     | тета      | `\theta`, `\Theta`     | theta `/ˈθeɪtə/`        |
-| $\lambda$, $\Lambda$   | лямбда    | `\lambda`, `\Lambda`   | lambda `/ˈlæmdə/`       |
-| $\pi$, $\varpi$, $\Pi$ | пи        | `\pi`, `\varpi`, `\Pi` | pi `/ˈpaɪ/`             |
-| $\sigma$, $\Sigma$     | сигма     | `\sigma`, `\Sigma`     | sigma `/ˈsɪɡmə/`        |
-| $\tau$, $\Tau$         | тау       | `\tau`, `\Tau`         | tau `/ˈtaʊ, ˈtɔː, ˈtɒ/` |
-| $\Xi, \xi$             | кси       | `\xi`, `\Xi`           | chi `/kaɪ/`             |
-
-https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
+| Символ                          | По-русски | LaTeX                           | По-английски         |
+| ------------------------------- | --------- | ------------------------------- | -------------------- |
+| $\alpha$, $\Alpha$              | альфа     | `\alpha`, `\Alpha`              | alpha `/ˈælfə/`      |
+| $\beta$, $\Beta$                | бета      | `\beta`, `\Beta`                | beta `/ˈbeɪtə/`      |
+| $\gamma$, $\Gamma$              | гамма     | `\gamma`, `\Gamma`              | gamma `/ˈɡæmə/`      |
+| $\delta$, $\Delta$              | дельта    | `\delta`, `\Delta`              | delta `/ˈdɛltə/`     |
+| $\epsilon$, $\Epsilon$          | эпсилон   | `\epsilon`, `\Epsilon`          | epsilon `/ˈɛpsɪlɒn/` |
+| $\zeta$, $\Zeta$                | зета      | `\zeta`, `\Zeta`                | zeta `/ˈzeɪtə/`      |
+| $\eta$, $\Eta$                  | эта       | `\eta`, `\Eta`                  | eta `/ˈeɪtə/`        |
+| $\theta$, $\Theta$              | тета      | `\theta`, `\Theta`              | theta `/ˈθeɪtə/`     |
+| $\iota$, $\Iota$                | йота      | `\iota`, `\Iota`                | iota `/aɪˈoʊtə/`     |
+| $\kappa$, $\Kappa$              | каппа     | `\kappa`, `\Kappa`              | kappa `/ˈkæpə/`      |
+| $\lambda$, $\Lambda$            | лямбда    | `\lambda`, `\Lambda`            | lambda `/ˈlæmdə/`    |
+| $\mu$, $\Mu$                    | мю        | `\mu`, `\Mu`                    | mu `/mjuː/`          |
+| $\nu$, $\Nu$                    | ню        | `\nu`, `\Nu`                    | nu `/njuː/`          |
+| $\xi$, $\Xi$                    | кси       | `\xi`, `\Xi`                    | xi `/ksaɪ/`          |
+| $o$, $O$                        | омикрон   | `o`, `O`                        | omicron `/ˈɒmɪkrɒn/` |
+| $\pi$, $\varpi$, $\Pi$          | пи        | `\pi`, `\varpi`, `\Pi`          | pi `/ˈpaɪ/`          |
+| $\rho$, $\varrho$, $\Rho$       | ро        | `\rho`, `\varrho`, `\Rho`       | rho `/roʊ/`          |
+| $\sigma$, $\varsigma$, $\Sigma$ | сигма     | `\sigma`, `\varsigma`, `\Sigma` | sigma `/ˈsɪɡmə/`     |
+| $\tau$, $\Tau$                  | тау       | `\tau`, `\Tau`                  | tau `/ˈtaʊ/`         |
+| $\upsilon$, $\Upsilon$          | ипсилон   | `\upsilon`, `\Upsilon`          | upsilon `/ˈʌpsɪlɒn/` |
+| $\phi$, $\varphi$, $\Phi$       | фи        | `\phi`, `\varphi`, `\Phi`       | phi `/faɪ/`          |
+| $\chi$, $\Chi$                  | хи        | `\chi`, `\Chi`                  | chi `/kaɪ/`          |
+| $\psi$, $\Psi$                  | пси       | `\psi`, `\Psi`                  | psi `/psaɪ/`         |
+| $\omega$, $\Omega$              | омега     | `\omega`, `\Omega`              | omega `/ˈoʊmɛɡə/`    |
 
 ## Режимы
 
