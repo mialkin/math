@@ -183,6 +183,7 @@ $\ln x$
 | $\Leftrightarrow$, $\iff$ | Равносильно, тогда и только тогда, if and only if | `\Leftrightarrow`, `\iff` |
 | $\land$, $\wedge$         | Конъюнкция, логическое "и"                        | `\land`, `\wedge`         |
 | $\lor$, $\vee$            | Дизъюнкция, логическое "или"                      | `\lor`, `\vee`            |
+| $\equiv$, $\iff$          |                                                   |                           |
 | $\lnot$                   | Отрицание                                         | `\lnot`                   |
 | $\forall$                 | Квантор всеобщности                               | `\forall`                 |
 | $\exists$                 | Квантор существования                             | `\exists`                 |
