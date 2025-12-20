@@ -1,45 +1,52 @@
-# Перевод терминов на английский
+# Перевод терминов
 
-## А
+## B
 
-- **ажурный шрифт** — blackboard bold
+**blackboard bold** — ажурный шрифт
 
-## Д
+## C
 
-- **дробь** — fraction
-- **дифференциальное исчисление** — [↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
+**[↑ calculus](https://en.wikipedia.org/wiki/Calculus)** — математический анализ (основы дифференциального и интегрального исчисления)
 
-## З
+## D
 
-- **закон исключенного третьего** — the law of excluded middle
+**[↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)** — дифференциальное исчисление
 
-## И
+## E
 
-- **интегральное исчисление** — [↑ integral calculus](https://en.wikipedia.org/wiki/Integral_calculus)
+**exponent** — показатель степени
+**exponential function** — показательная функция
 
-## К
+## F
 
-- **кратный интеграл** — multiple integral
+**fraction** — дробь
 
-## М
+## I
 
-- **математический анализ** — [↑ analysis](https://en.wikipedia.org/wiki/Mathematical_analysis) или _mathematical analysis_ или [calculus](https://en.wikipedia.org/wiki/Mathematical_analysis)
+[↑ integral calculus](https://en.wikipedia.org/wiki/Integral_calculus) — интегральное исчисление
 
-## О
+## L
 
-- **обозначение** — notation
+**law of excluded middle** — [↑ закон исключенного третьего](ttps://ru.wikipedia.org/wiki/Закон_исключённого_третьего)
 
-## П
+## M
 
-- **показатель степени** — exponent
-- **показательная функция** — exponential function
-- **простое число** — prime number
+**mathematical analysis** — математический анализ
 
-## Р
+**multiple integral** — кратный интеграл
 
-- **ряд** — series
+## N
 
-## С
+**notation** — обозначение
 
-- **степенная функция** — power function
-- **строгий** — proper
+## P
+
+**power function** — степенная функция
+
+**prime number** — простое число
+
+**proper** — строгий
+
+## S
+
+**series** — ряд
