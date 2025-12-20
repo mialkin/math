@@ -12,6 +12,8 @@
 
 **codomain** — область значений (функции)
 
+**cross product** — векторное произведение
+
 ## D
 
 **[↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)** — дифференциальное исчисление
