@@ -10,9 +10,13 @@
 
 **[↑ calculus](https://en.wikipedia.org/wiki/Calculus)** — математический анализ (основы дифференциального и интегрального исчисления)
 
+**codomain** — область значений (функции)
+
 ## D
 
 **[↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)** — дифференциальное исчисление
+
+**domain** — множество значений
 
 ## E
 
