@@ -41,6 +41,8 @@
 
 ## P
 
+**polynomial** — многочлен, полином
+
 **power function** — степенная функция
 
 **prime number** — простое число
