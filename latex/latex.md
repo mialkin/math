@@ -208,7 +208,7 @@ x \in X, x \notin X
 x \ni X, x \notni X
 ```
 
-$x \in X$, $x \ni X$ — «есть элемент множества»
+$x \in X$, $x \ni X$ — «есть элемент множества»
 
 $x \notin X$, $x \notni X$
 
@@ -294,7 +294,7 @@ $\ddots$
 
 ## Умножение
 
-`\cdot` — vertically centred dot, вертикально центрированная точка.
+`\cdot` — vertically centred dot, вертикально центрированная точка.
 
 ```text
 $1 \cdot 2$

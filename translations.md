@@ -12,11 +12,11 @@
 
 **codomain** — область значений (функции)
 
-**cross product** — векторное произведение
+**cross product** — векторное произведение
 
 ## D
 
-**[↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)** — дифференциальное исчисление
+**[↑ differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)** — дифференциальное исчисление
 
 **domain** — множество значений
 
@@ -54,7 +54,7 @@
 
 **polynomial** — многочлен, полином
 
-**power** — степень
+**power** — степень
 
 **power function** — степенная функция
 
