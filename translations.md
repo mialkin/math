@@ -2,6 +2,8 @@
 
 ## B
 
+**binomial** — двучлен, бином
+
 **binomial theorem** — бином Ньютона
 
 **blackboard bold** — ажурный шрифт
@@ -11,6 +13,8 @@
 **[↑ calculus](https://en.wikipedia.org/wiki/Calculus)** — математический анализ (основы дифференциального и интегрального исчисления)
 
 **codomain** — область значений (функции)
+
+**combination** — сочетание
 
 **combinatorics** — комбинаторика
 
@@ -39,12 +43,14 @@
 [↑ integral calculus](https://en.wikipedia.org/wiki/Integral_calculus) — интегральное исчисление
 
 ## L
-
+ц
 **law of excluded middle** — [↑ закон исключенного третьего](ttps://ru.wikipedia.org/wiki/Закон_исключённого_третьего)
 
 ## M
 
 **mathematical analysis** — математический анализ
+
+**monomial** — одночлен
 
 **multiple integral** — кратный интеграл
 
