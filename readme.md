@@ -5,7 +5,7 @@
 - [Ссылки. Книги](ссылки.md)
 - [Определения](определения.md)
 - [Перевод терминов](translations.md)
-- [LaTeX](latex/latex.md)
+- [LaTeX](latex/latex.md). [↑ The Comprehensive LATEX Symbol List](https://www.math.toronto.edu/mathit/symbols-letter.pdf)
 - [Программное обеспечение](по.md)
 
 ## Алгебра
