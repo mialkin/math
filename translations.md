@@ -42,7 +42,7 @@
 
 ## L
 
-**law of excluded middle** — [↑ закон исключенного третьего](ttps://ru.wikipedia.org/wiki/Закон_исключённого_третьего)
+**law of excluded middle** — [↑ закон исключенного третьего](https://ru.wikipedia.org/wiki/Закон_исключённого_третьего)
 
 ## M
 
